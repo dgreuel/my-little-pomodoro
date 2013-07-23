@@ -1,0 +1,15 @@
+- Add iCloud
+
+- Add delete contextual menu in Work Unit log
+- Add delete contextual menu in Task view (main window), along with reset stats menu item/action
+- Add averages (daily, weekly, monthly) to stats
+
+- Add in conextual menu for main task view
+
+- Clean up handling of enabling/disabling toolbar items and segmented controls in MainWindowController
+- Use canAdd/canRemove for NSArrayController in TasksViewController
+- push "isDuringWorkUnit" out to model, and then sync/bind table view based on that
+- add NSTrackingArea to pull open tasks "drawer".  double clicking on control opens task drawer to full height, double clicking again closes it.
+- add in finalize to KVO observers
+- move all key strings to be #defines
+

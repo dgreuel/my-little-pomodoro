@@ -1,0 +1,161 @@
+body {
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-size: 12px;
+	
+	background-color: #fff;
+	color: #333;
+	margin: 50px 30px 30px;
+}
+
+h1 {
+	color: black;
+	font-size: 20px;	
+}
+
+h2 {
+	color: black;
+	font-size: 1.3em;
+}
+
+h3 {
+	color: black;
+	font-size: 1em;
+}
+
+/* @group Link Styles */
+
+a {
+	color: #3366CC;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #011E57;
+}
+
+/* @end */
+
+/* @group Navbar */
+
+#navbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	
+	background-color: #ddd;
+	border-bottom: 1px solid #bfbfbf;
+	
+	padding: 3px 0px;
+}
+
+#navleft, #navright {
+	font-size: 10px;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-weight: normal;
+	color: #333;
+	text-shadow: #fff 0px 1px 0;
+}
+
+#navleft {
+	float: left;
+	padding-left: 24px;
+}
+
+#navright {
+	float: right;
+	padding-right: 24px;
+}
+
+/* @end */
+
+/* @group Instructions */
+
+.instructions {
+	background-color: #e7edfc;
+	border: 1px solid #8c97ac;
+	padding: 10px;
+	padding-left: 30px;
+	
+	border-radius: 3px
+}
+
+.menuitem {
+	color: #000;
+	padding: 3px 8px;
+	line-height: 2em;
+	
+	border: 1px solid #939393;
+	border-radius: 3px;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#cccccd), to(#949599), color-stop(0.5, #acacaf));
+	-webkit-background-origin: border;
+	
+	text-shadow: 0px 1px #b6b7b9;
+}
+
+/* @end */
+
+/* @group Notes */
+
+.note {
+	background-color: #ececec;
+	border: 1px dashed #979797;
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.note > span:first-child {
+	font-weight: bold;
+}
+
+/* @end */
+
+/* @group Two Columns */
+
+#two-column {
+	width: 600px;
+	margin: 50px auto;
+	
+}
+
+#left-column {
+	float: left;
+	text-align: center;
+	margin: 20px 0 0 auto;
+	width: 40%;
+}
+
+#left-column a {
+	font-size: 10px;
+	font-weight: normal;
+}
+
+#right-column {
+	margin-left: 45%;
+	border-left: 1px solid #bfbfbf;
+	padding-left: 30px;
+	width: 70%;
+	padding-top: 20px;
+	padding-bottom: 1px;
+}
+
+#right-column h2 {
+	margin: 0px;
+}
+
+#right-column p {
+	margin: 5px 0px 20px 0px;
+}
+
+#right-column a {
+	font-size: 13px;
+}
+
+/* @end */
+
+

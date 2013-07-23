@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Ticking Sound 1</string>
+		<key>TickFilename</key>
+		<string>Tick1</string>
+		<key>TockFilename</key>
+		<string>Tock1</string>
+		<key>DemoFilename</key>
+		<string>TickTockDemo1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ticking Sound 2</string>
+		<key>TickFilename</key>
+		<string>Tick2</string>
+		<key>TockFilename</key>
+		<string>Tock2</string>
+		<key>DemoFilename</key>
+		<string>TickTockDemo2</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ticking Sound 3</string>
+		<key>TickFilename</key>
+		<string>Tick3</string>
+		<key>TockFilename</key>
+		<string>Tock3</string>
+		<key>DemoFilename</key>
+		<string>TickTockDemo3</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ticking Sound 4</string>
+		<key>TickFilename</key>
+		<string>Tick4</string>
+		<key>TockFilename</key>
+		<string>Tock4</string>
+		<key>DemoFilename</key>
+		<string>TickTockDemo4</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ticking Sound 5</string>
+		<key>TickFilename</key>
+		<string>Tick5</string>
+		<key>TockFilename</key>
+		<string>Tock5</string>
+		<key>DemoFilename</key>
+		<string>TickTockDemo5</string>
+	</dict>
+</array>
+</plist>

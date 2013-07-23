@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PomodoroLength</key>
+	<integer>25</integer>
+	<key>ShortBreakLength</key>
+	<integer>5</integer>
+	<key>LongBreakLength</key>
+	<integer>15</integer>
+	<key>AlarmSound</key>
+	<string>Glass</string>
+	<key>AlarmSoundEnabled</key>
+	<true/>
+	<key>AlarmVoiceIndex</key>
+	<integer>2</integer>
+	<key>AlarmVoiceEnabled</key>
+	<false/>
+	<key>Autostart</key>
+	<true/>
+	<key>BadgeDockIcon</key>
+	<true/>
+	<key>BounceDockIcon</key>
+	<true/>
+	<key>ShowStatusBarItem</key>
+	<false/>
+	<key>ShowTimerInStatusBar</key>
+	<true/>
+	<key>TickingSoundEnabled</key>
+	<false/>
+	<key>TickingSoundEnabledDuringBreaks</key>
+	<false/>
+	<key>TickingSoundVolume</key>
+	<real>0.5</real>
+	<key>TickingSoundIndex</key>
+	<integer>0</integer>
+	<key>TickingSoundTickFilename</key>
+	<string>Tick1</string>
+	<key>TickingSoundTockFilename</key>
+	<string>Tock1</string>
+	<key>NotifyUsingGrowl</key>
+	<true/>
+	<key>PermanentTaskRemovalAlertSuppressed</key>
+	<false/>
+	<key>PermanentWorkUnitRemovalAlertSuppressed</key>
+	<false/>
+	<key>iChatStatusControlEnabled</key>
+	<false/>
+	<key>AdiumStatusControlEnabled</key>
+	<false/>
+	<key>SkypeStatusControlEnabled</key>
+	<false/>
+	<key>PomodoroStatusMessage</key>
+	<string>Do not disturb, I&apos;m working!</string>
+</dict>
+</plist>
